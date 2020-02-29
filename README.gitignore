@@ -1,0 +1,15 @@
+Book Library System
+
+with functionality to add books with details and display it in listing. 
+Also allows to search the book in the list using search box.
+
+Steps to run code:
+
+1. open command line and install create-react-app using code 
+  - npx create-react-app book-library
+ where book-library is the name of our app
+2. replace folder "public" and "src" from this folder and replace with folder provided in zip
+
+3.using command line go to folder uing "cd book-library"
+
+4. start react application using "npm start"
